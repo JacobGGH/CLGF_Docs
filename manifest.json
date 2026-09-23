@@ -1,0 +1,181 @@
+{
+  "source_base_path": "C:/Users/Jacob/Documents/CLGF_Docs",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      }
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CommandLineGameFramework.CLGF.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CommandLineGameFramework.CLGF.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "CommandLineGameFramework.CLGF",
+      "Summary": "<p sourcefile=\"api/CommandLineGameFramework.CLGF.yml\" sourcestartlinenumber=\"1\">A framework for programming games that run in the command prompt/command line.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CommandLineGameFramework.Drawable.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CommandLineGameFramework.Drawable.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "CommandLineGameFramework.Drawable",
+      "Summary": "<p sourcefile=\"api/CommandLineGameFramework.Drawable.yml\" sourcestartlinenumber=\"1\">The base class for an object that can be drawn to the console screen\n(i.e. <xref href=\"CommandLineGameFramework.Sprite\" data-throw-if-not-resolved=\"false\"></xref>, <xref href=\"CommandLineGameFramework.Text\" data-throw-if-not-resolved=\"false\"></xref>, etc.).</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CommandLineGameFramework.DrawingBuffer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CommandLineGameFramework.DrawingBuffer.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "CommandLineGameFramework.DrawingBuffer",
+      "Summary": "<p sourcefile=\"api/CommandLineGameFramework.DrawingBuffer.yml\" sourcestartlinenumber=\"1\">A buffer which loads and renders <xref href=\"CommandLineGameFramework.Drawable\" data-throw-if-not-resolved=\"false\"></xref> objects\n(i.e. <xref href=\"CommandLineGameFramework.Sprite\" data-throw-if-not-resolved=\"false\"></xref>, <xref href=\"CommandLineGameFramework.Text\" data-throw-if-not-resolved=\"false\"></xref>) the console screen.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CommandLineGameFramework.GameManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CommandLineGameFramework.GameManager.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "CommandLineGameFramework.GameManager",
+      "Summary": "<p sourcefile=\"api/CommandLineGameFramework.GameManager.yml\" sourcestartlinenumber=\"1\">A manager which handles running a game (i.e. running the game loop,\ntransitioning game scenes, etc.).</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CommandLineGameFramework.GameScene.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CommandLineGameFramework.GameScene.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "CommandLineGameFramework.GameScene",
+      "Summary": "<p sourcefile=\"api/CommandLineGameFramework.GameScene.yml\" sourcestartlinenumber=\"1\">The base class for a scene in a game (i.e. menu, main gameplay, etc.).\nInherent from this class to create scenes for a game.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CommandLineGameFramework.Position.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CommandLineGameFramework.Position.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "CommandLineGameFramework.Position",
+      "Summary": "<p sourcefile=\"api/CommandLineGameFramework.Position.yml\" sourcestartlinenumber=\"1\">A 2-dimensional position (X, Y).</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CommandLineGameFramework.Sprite.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CommandLineGameFramework.Sprite.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "CommandLineGameFramework.Sprite",
+      "Summary": "<p sourcefile=\"api/CommandLineGameFramework.Sprite.yml\" sourcestartlinenumber=\"1\">A game sprite composed of ASCII art which can be drawn to the console screen.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CommandLineGameFramework.Text.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CommandLineGameFramework.Text.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "CommandLineGameFramework.Text",
+      "Summary": "<p sourcefile=\"api/CommandLineGameFramework.Text.yml\" sourcestartlinenumber=\"1\">Text which can be drawn to the console screen.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CommandLineGameFramework.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CommandLineGameFramework.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "CommandLineGameFramework",
+      "Summary": null
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html"
+        },
+        ".json": {
+          "relative_path": "api/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html"
+        },
+        ".json": {
+          "relative_path": "toc.json"
+        }
+      },
+      "version": ""
+    }
+  ],
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
