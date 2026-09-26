@@ -4,5 +4,5 @@ This is the project for the official documentation site (generated using Docfx) 
 # Links
 - [Latest CLGF release](https://github.com/JacobGGH/CLGF/releases/tag/v1.0.0)
 - [Documentation](https://jacobggh.github.io/CLGF_Docs/)
-- [CLGF Tutorial Video](https://youtu.be/b9SqcLTvZz0)
+- [CLGF tutorial video](https://youtu.be/b9SqcLTvZz0)
 - [Statement on AI](https://www.jacob-g-arts.com/about)
