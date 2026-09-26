@@ -47,6 +47,6 @@
   "index.html": {
     "href": "index.html",
     "title": "CLGF Docs | CLGF_Docs",
-    "summary": "CLGF Docs This is the offical documentation for the Command Line Game Framework (CLGF) library. About Command Line Game Framework (CLGF) is a cross platform framework that allows users to program games which run in the command line/prompt. It's a personal library which I created so I could dabble with game dev convepts without having to learn an entire new tool like Unity or Godot. I wanted to release it to the public just in case someone else might find it fun or useful! Links Command Line Game Framework (CLGF) Latest CLGF release CLGF tutorial video Statement on AI"
+    "summary": "CLGF Docs This is the offical documentation for the Command Line Game Framework (CLGF) library. About Command Line Game Framework (CLGF) is a cross platform framework that allows users to program games which run in the command line/prompt. It's a personal library which I created so I could dabble with game dev concepts without having to learn an entire new tool like Unity or Godot. I wanted to release it to the public just in case someone else might find it fun or useful! Links Command Line Game Framework (CLGF) Latest CLGF release CLGF tutorial video Statement on AI"
   }
 }
